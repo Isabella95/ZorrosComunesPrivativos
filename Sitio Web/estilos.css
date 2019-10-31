@@ -1,0 +1,107 @@
+html{
+  font-size: 14pt;
+  color: black;
+  background-color: antiquewhite;
+  padding-bottom:10;
+  padding-top:10;
+  padding-left:10;
+  padding-right:10;
+
+}
+
+h1{
+   text-align: center;
+   font-size: 42pt;
+   color: white;
+   font-family: 'Exo', sans-serif;
+   background-color:orangered;
+   border-style:groove;
+   border-color:darkred;
+   border-spacing:200px;
+   border-width:5;
+   border-radius:20px;
+}
+
+h2{
+ text-align: left-side;
+ margin-left:50;
+ font-size: 32pt;
+ color: darkred;
+ font-family: 'Ubuntu', sans-serif;
+}
+
+h3{
+  text-align: left-side;
+  margin-left:50;
+  font-size: 24pt;
+  color: black;
+  font-family: 'Signika', sans-serif;
+}
+
+h4{
+  text-align: left-side;
+  margin-left:50;
+  font-size: 20pt;
+  color: darkred;
+  font-family: 'Exo', sans-serif;
+}
+
+p{
+  text-align:justify;
+  margin-left:50;
+  margin-right:20;
+  font-size:20pt;
+  color:black;
+  font-family: 'Signika', sans-serif;
+  border-radius:20px;
+  border-width:2;
+}
+
+title{
+  text-align:left-side;
+   margin-left:200;
+   font-size:20pt;
+   color:black;
+   font-family: 'Exo', sans-serif;
+}
+
+div{
+   padding: 10px 10px;	
+   text-align:left-side;
+   margin-left:50;
+   font-size:20pt;
+   color:white;
+   font-family: 'Exo', sans-serif;;
+   margin-right:900;
+   background-color:coral;
+   border-style:groove;
+   border-color:darkred;
+   border-spacing:180px;
+   border-width:5;
+   border-radius:20px;
+}
+
+li{
+   text-align:left-side;
+   margin-left:100;
+   font-size:18pt;
+   color:blue;
+   font-family: 'Signika', sans-serif;
+}
+
+body{
+	background-size: 1500px 900px;
+}
+
+a{
+	color: white;
+   text-decoration: none;
+}
+
+
+div a:hover{
+    color:darkred;
+}
+div selected a{
+    color:red;
+}
